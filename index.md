@@ -6,34 +6,25 @@
 # See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 #
 layout: home
-title: Math 407 Abstract Algebra
+title: CSUF Virtual Geometry Seminar
 ---
 
-**Instructor:** Dr. W. Riley Casper
+**Organizers:** Dr. W. Riley Casper and Dr. Shoo Seto
 
-**Email:** wcasper@fullerton.edu
+**Contact Email:** wcasper@fullerton.edu
 
-**Course meetings:** Tuesday and Thursday 4:00PM-5:15PM
+**Talk Schedule:** A schedule of talks can be found [here (link)](flyer/geometry_flyer.pdf)
 
-**Office hours:** Tuesday 3-4PM, Wednesday 3-4PM and by appointment
-
-**Zoom number for class/office hours:** <a target="_parent" href="https://fullerton.zoom.us/j/81960584642?pwd=N1J6Y05pd3h5KzBtNjE4anloSmRPQT09">81960584642</a>
+**Zoom number:** [89343255295](https://fullerton.zoom.us/j/89343255295?pwd=ZFR3VThaM29ZYkdReGVQS0daS1pHUT09)
 
 **Passcode:** 112358
 
-**Syllabus:** <a target="_parent" href="extras/syllabus.html">Course syllabus (link)</a>
+**Introduction:**
 
-**First steps**
-
-Please familiarize yourself with the syllabus and the Canvas site for this course, starting with the <a target="_parent" href="https://csufullerton.instructure.com/courses/3087997/modules">Orientation Module (link)</a>.  Also, be sure that you have the necessary technological requisites:
-* A reliable internet connection
-* Zoom
-* A webcam
-* A microphone
-
-Please reach out as soon as possible if you have any questions or concerns.
+The CSUF Geometry Seminar is an extension of the Geometry Seminar first established at CSUF in 2007.  It is intended as a venue for talks related to geometry and topology (broadly interpreted) and to be a place where faculty from many different universities can find a friendly and collaborative atmosphere.
+Titles, abstracts, and video recordings for past and up-coming talks may be found here.
 
 ***
 
-## New posts!
+## Upcoming and recent talks!
 
