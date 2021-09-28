@@ -11,7 +11,7 @@ title: CSUF Virtual Geometry Seminar
 
 **Organizers:** Dr. W. Riley Casper and Dr. Shoo Seto
 
-**Contact Email:** wcasper@fullerton.edu
+**Contact Email:** [wcasper@fullerton.edu](mailto:wcasper@fullerton.edu)
 
 **Talk Schedule:** A schedule of talks can be found [here (link)](flyer/geometry_flyer.pdf)
 
