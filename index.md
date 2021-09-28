@@ -21,7 +21,7 @@ title: CSUF Virtual Geometry Seminar
 
 **Introduction:**
 
-The CSUF Geometry Seminar is an extension of the Geometry Seminar first established at CSUF in 2007.  It is intended as a venue for talks related to geometry and topology (broadly interpreted) and to be a place where faculty from many different universities can find a friendly and collaborative atmosphere.
+The CSUF Virtual Geometry Seminar is an extension of the Geometry Seminar first established at CSUF in 2007.  It is intended as a venue for talks related to geometry and topology (broadly interpreted) and to be a place where faculty from many different universities can find a friendly and collaborative atmosphere.
 Titles, abstracts, and video recordings for past and up-coming talks may be found here.
 
 ***
