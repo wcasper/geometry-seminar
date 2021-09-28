@@ -6,6 +6,7 @@ title: Can You Hear the Shape of a Drug?
 ### Author information
 * Stuart Hall
 * Newcastle University, Newcastle, UK
+* Website: [https://www.ncl.ac.uk/maths-physics/people/profile/stuarthall.html](https://www.ncl.ac.uk/maths-physics/people/profile/stuarthall.html)
 
 ### Abstract:
 When searching for new medicines, chemists would like to be able to virtually screen very large databases of molecules.  Given a compound with known activity, molecules with a similar shape to the active compound might be expected to have similar effects.
