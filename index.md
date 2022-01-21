@@ -13,7 +13,7 @@ title: CSUF Virtual Geometry Seminar
 
 **Contact Email:** [wcasper@fullerton.edu](mailto:wcasper@fullerton.edu)
 
-**Talk Schedule:** A schedule of talks can be found [here (link)](flyer/geometry_flyer.pdf)
+**Talk Schedule:** A schedule of talks can be found [here (link)](flyer/geometry_flyer-spring-2022.pdf)
 
 **Zoom number:** [89343255295](https://fullerton.zoom.us/j/89343255295?pwd=ZFR3VThaM29ZYkdReGVQS0daS1pHUT09)
 
