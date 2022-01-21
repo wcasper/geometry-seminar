@@ -1,9 +1,9 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2021 Gentoo Linux) (preloaded format=pdflatex 2021.7.21)  24 SEP 2021 14:08
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2021 Gentoo Linux) (preloaded format=pdflatex 2021.7.21)  21 JAN 2022 12:29
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
-**geometry_flyer.tex
-(./geometry_flyer.tex
+**geometry_flyer-fall-2021.tex
+(./geometry_flyer-fall-2021.tex
 LaTeX2e <2020-10-01> patch level 4
 L3 programming layer <2021-02-18>
 (/usr/share/texmf-dist/tex/latex/base/article.cls
@@ -279,8 +279,9 @@ LaTeX Font Info:    Trying to load font information for OT1+ppl on input line 1
 
 (/usr/share/texmf-dist/tex/latex/psnfss/ot1ppl.fd
 File: ot1ppl.fd 2001/06/04 font definitions for OT1/ppl.
-) (./geometry_flyer.aux)
-\openout1 = `geometry_flyer.aux'.
+)
+(./geometry_flyer-fall-2021.aux)
+\openout1 = `geometry_flyer-fall-2021.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 11.
 LaTeX Font Info:    ... okay on input line 11.
@@ -317,9 +318,9 @@ LaTeX Info: Redefining \ref on input line 11.
 LaTeX Info: Redefining \pageref on input line 11.
 LaTeX Info: Redefining \nameref on input line 11.
 
-(./geometry_flyer.out) (./geometry_flyer.out)
+(./geometry_flyer-fall-2021.out) (./geometry_flyer-fall-2021.out)
 \@outlinefile=\write3
-\openout3 = `geometry_flyer.out'.
+\openout3 = `geometry_flyer-fall-2021.out'.
 
 LaTeX Info: Redefining \microtypecontext on input line 11.
 Package microtype Info: Generating PDF output.
@@ -446,24 +447,25 @@ Package microtype Info: Loading generic protrusion settings for font family
 
 {/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map} <./helicoid.jpg> <./csuf_se
 al.png>]
-(./geometry_flyer.aux)
-Package rerunfilecheck Info: File `geometry_flyer.out' has not changed.
+(./geometry_flyer-fall-2021.aux)
+Package rerunfilecheck Info: File `geometry_flyer-fall-2021.out' has not change
+d.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
  ) 
 Here is how much of TeX's memory you used:
  10787 strings out of 480954
- 163723 string characters out of 5908242
- 669823 words of memory out of 5000000
+ 163873 string characters out of 5908242
+ 669843 words of memory out of 5000000
  27810 multiletter control sequences out of 15000+600000
  415111 words of font info for 85 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
- 71i,8n,75p,263b,401s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 71i,8n,75p,273b,401s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/share/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/share/texmf-dist/fon
 ts/type1/public/amsfonts/cm/cmss10.pfb></usr/share/texmf-dist/fonts/type1/publi
 c/amsfonts/cm/cmss12.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/
 cmssbx10.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmssi12.pfb>
 </usr/share/texmf-dist/fonts/type1/urw/palatino/uplb8a.pfb>
-Output written on geometry_flyer.pdf (1 page, 500776 bytes).
+Output written on geometry_flyer-fall-2021.pdf (1 page, 500776 bytes).
 PDF statistics:
  40 PDF objects out of 1000 (max. 8388607)
  28 compressed objects within 1 object stream
