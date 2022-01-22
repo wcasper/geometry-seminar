@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Event Calendar
-permalink: /extras/calendar
+permalink: /calendar
 ---
 
 ## Upcoming talks and other events
