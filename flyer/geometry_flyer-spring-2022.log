@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2021 Gentoo Linux) (preloaded format=pdflatex 2021.7.21)  21 JAN 2022 13:23
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2021 Gentoo Linux) (preloaded format=pdflatex 2021.7.21)  22 JAN 2022 13:00
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -417,24 +417,24 @@ Package pdftex.def Info: csuf_seal.png  used on input line 62.
 LaTeX Font Info:    Font shape `OT1/cmss/m/it' in size <12> not available
 (Font)              Font shape `OT1/cmss/m/sl' tried instead on input line 73.
 LaTeX Font Info:    Trying to load font information for OML+zplm on input line 
-117.
+118.
 (/usr/share/texmf-dist/tex/latex/psnfss/omlzplm.fd
 File: omlzplm.fd 2002/09/08 Fontinst v1.914 font definitions for OML/zplm.
 )
 LaTeX Font Info:    Trying to load font information for OMS+zplm on input line 
-117.
+118.
 
 (/usr/share/texmf-dist/tex/latex/psnfss/omszplm.fd
 File: omszplm.fd 2002/09/08 Fontinst v1.914 font definitions for OMS/zplm.
 )
 LaTeX Font Info:    Trying to load font information for OMX+zplm on input line 
-117.
+118.
 
 (/usr/share/texmf-dist/tex/latex/psnfss/omxzplm.fd
 File: omxzplm.fd 2002/09/08 Fontinst v1.914 font definitions for OMX/zplm.
 )
 LaTeX Font Info:    Trying to load font information for OT1+zplm on input line 
-117.
+118.
 
 (/usr/share/texmf-dist/tex/latex/psnfss/ot1zplm.fd
 File: ot1zplm.fd 2002/09/08 Fontinst v1.914 font definitions for OT1/zplm.
@@ -453,10 +453,10 @@ ged.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
  ) 
 Here is how much of TeX's memory you used:
- 10783 strings out of 480954
- 163871 string characters out of 5908242
+ 10784 strings out of 480954
+ 163879 string characters out of 5908242
  668847 words of memory out of 5000000
- 27806 multiletter control sequences out of 15000+600000
+ 27807 multiletter control sequences out of 15000+600000
  415111 words of font info for 85 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
  71i,8n,75p,275b,401s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -465,7 +465,7 @@ ts/type1/public/amsfonts/cm/cmss10.pfb></usr/share/texmf-dist/fonts/type1/publi
 c/amsfonts/cm/cmss12.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/
 cmssbx10.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmssi12.pfb>
 </usr/share/texmf-dist/fonts/type1/urw/palatino/uplb8a.pfb>
-Output written on geometry_flyer-spring-2022.pdf (1 page, 500985 bytes).
+Output written on geometry_flyer-spring-2022.pdf (1 page, 501181 bytes).
 PDF statistics:
  41 PDF objects out of 1000 (max. 8388607)
  29 compressed objects within 1 object stream
